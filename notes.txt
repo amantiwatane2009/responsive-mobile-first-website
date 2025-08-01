@@ -1,0 +1,2 @@
+what is mobile first ?
+-> it is essentially an approach to build your website according to small screen first and adjust media queries for bigger displays
